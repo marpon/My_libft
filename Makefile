@@ -1,7 +1,6 @@
 
 #    Makefile #  
 
-
 NAME = libft.a
 
 UNAME_S := $(shell uname -s)
